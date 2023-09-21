@@ -10,10 +10,12 @@ The deployed Website: https://nodejs-filesystem-3xc8.onrender.com
 
 #### Create the file of current date and time
 
+<h4>End Point: createTextFile</h4>
 https://nodejs-filesystem-3xc8.onrender.com/createTextFile
 
 #### Get the files from server
 
+<h4>End Point: getTextFile</h4>
 https://nodejs-filesystem-3xc8.onrender.com/getTextFiles
 
 ## Table of Contents
