@@ -2,6 +2,20 @@
 
 A Node.js application that provides a simple file management system with RESTful API endpoints. Users can create timestamped text files and retrieve a list of existing text files stored in the "Output" directory. The API is documented for easy integration and usage.
 
+## API Deployment
+
+The deployed Website: https://nodejs-filesystem-3xc8.onrender.com
+
+### API Request
+
+#### Create the file of current date and time
+
+https://nodejs-filesystem-3xc8.onrender.com/createTextFile
+
+#### Get the files from server
+
+https://nodejs-filesystem-3xc8.onrender.com/getTextFiles
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
